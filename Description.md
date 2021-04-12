@@ -2,6 +2,7 @@
 ###### tags: `Course`
 
 ## 作業要求
+撰寫Gaussian Mixture Model，辨識兩張足球比賽畫面及其對應的mask (判別每一個pixel是屬於場地或非場地)
 
 ## 程式執行環境
 作業系統：Windows 10
